@@ -6,6 +6,7 @@ target/
 
 ## remove files ##
 application.yml
+.idea
 
 ### STS ###
 .apt_generated
